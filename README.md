@@ -1,4 +1,4 @@
 # Orbiter-Clockwork-Module
 This Clockwork module allows the use of the Orbiter 1.5 Extruder in the Voron Afterburner.
 
-![Alt text](images/Orbiter Clockwork Module - Left Side.png?raw=true "Title")
+![Image](./images/Orbiter Clockwork Module - Left Side.png)
