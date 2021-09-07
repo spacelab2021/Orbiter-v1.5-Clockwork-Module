@@ -14,7 +14,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
   * 1x for Cable Cover to secure to Cable Chain Anchor
 
 ## Orbiter Clockwork Module Images
-![Image](./images/Orbiter-Clockwork-Main.png)
-![Image](./images/Orbiter_Clockwork_Module-Right_Side.png)
-![Image](./images/Orbiter_Clockwork_Module-Back_Left.png)
-![Image](./images/Orbiter_Clockwork_Module-Back_Right.png)
+![Image](./docs/images/Orbiter-Clockwork-Main.png)
+![Image](./docs/images/Orbiter_Clockwork_Module-Right_Side.png)
+![Image](./docs/images/Orbiter_Clockwork_Module-Back_Left.png)
+![Image](./docs/images/Orbiter_Clockwork_Module-Back_Right.png)
