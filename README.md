@@ -14,7 +14,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
   * 1x for Cable Cover to secure to Cable Chain Anchor
   
 ## Assembly Guide
-[Orbiter Clockwork Assembly Guide](./docs/Orbiter Cockwork Manual.pdf)
+[Orbiter Clockwork Assembly Guide](./docs/Orbiter_Cockwork_Manual.pdf)
 ## Orbiter Clockwork Module Images
 ![Image](./docs/images/Orbiter-Clockwork-Main.png)
 ![Image](./docs/images/Orbiter_Clockwork_Module-Right_Side.png)
