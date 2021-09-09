@@ -10,7 +10,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
   * 9x 94180A331 or suitable inserts (Thread Pitch 0.5, Installed Length 3.8mm, Diameter ~5mm)
 * SHCS 3x8mm
   * 1x for Cable Cover to secure to Cable Chain Anchor
-* SHCS 3x10mm
+* SHCS 3x16mm
   * 1x for Filament Release Lever
 * SHCS 3x20
   * 2x for Motor Mount to Chain Anchor  
