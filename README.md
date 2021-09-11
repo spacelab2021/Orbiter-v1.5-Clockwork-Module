@@ -17,9 +17,14 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
 
   
 ## Assembly Guide
-[Orbiter Clockwork Assembly Guide](./docs/Orbiter_Cockwork_Manual.pdf)
+* [Orbiter Clockwork Assembly Guide](./docs/Orbiter_Cockwork_Manual.pdf)
+
 ## Orbiter Clockwork Module Images
 ![Image](./docs/images/Orbiter-Clockwork-Main.png)
 ![Image](./docs/images/Orbiter_Clockwork_Module-Right_Side.png)
 ![Image](./docs/images/Orbiter_Clockwork_Module-Back_Left.png)
 ![Image](./docs/images/Orbiter_Clockwork_Module-Back_Right.png)
+
+## Release History
+* Version 1.0 
+   * Orbiter Clockwork Adaptor has been verified to fit and function on a Voron 2.4 and a Switchwire. Additional testing may be required to fix any minor or major issues that are identified in the future. If you observed any issues, please create an issue so it can be tracked. 
