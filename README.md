@@ -14,7 +14,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
 |          |94180A331 or suitable inserts (Thread Pitch 0.5, Installed Length 3.8mm, Diameter ~5mm)      |           |   
 | 1        | M3x8mm SHCS                                                                                 | Hardware  |  
 | 2        | M3x10mm SHCS                                                                                | Hardware  |  
-| 1        | M3x16 SHCS                                                                                  | Hardware  | 
+| 1        | M3x12 SHCS                                                                                  | Hardware  | 
 | 2        | M3x20 SHCS                                                                                  | Hardware  |
 | 1        | PTFE 45mm (Dragon)                                                                          | Hardware  |
 | 1        | Clockwork Adaptor - Front                                                                   | Printable |
