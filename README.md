@@ -16,7 +16,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
 | 2        | M3x10mm SHCS                                                                                | Hardware  |  
 | 1        | M3x12 SHCS                                                                                  | Hardware  | 
 | 2        | M3x20 SHCS                                                                                  | Hardware  |
-| 1        | PTFE 45mm (Dragon)                                                                          | Hardware  |
+| 1        | PTFE 50mm (Dragon)                                                                          | Hardware  |
 | 1        | Clockwork Adaptor - Front                                                                   | Printable |
 | 1        | Clockwork Adaptor - Back                                                                    | Printable |
 | 1        | Cable/Connector Cover                                                                       | Printable |
